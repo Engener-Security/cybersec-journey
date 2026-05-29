@@ -36,7 +36,7 @@ cybersec-journey/
 | 02 | TryHackMe — Pre-Security | 🔄 Em curso |
 
 ## Plataformas
-
+- Cisco Networking Academy
 - TryHackMe: [em breve — link do perfil]
 - LinkedIn: [em breve]
 
